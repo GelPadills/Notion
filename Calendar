@@ -203,7 +203,7 @@ var dies_abr = [
     'MON
     'TUE
     'WED
-    'THUR
+    'THU
     'FRI
     'SAT
 ];
